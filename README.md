@@ -1,13 +1,13 @@
 Hi 👋 My name is Usama Ashraf
 ==============================
 
-Full Stack Developer
+Full Wordpress/shopify Developer
 --------------------
 
-As a full stack developer, I have a comprehensive understanding of the web development process, from the user interface to the server-side logic. I have experience working with a variety of front-end and back-end technologies, allowing me to design, develop and maintain web applications from start to finish.
+As a full s Wordpress/shopify Developer, I have a comprehensive understanding of the web development process, from the user interface to the server-side logic. I have experience working with a variety of front-end and back-end technologies, allowing me to design, develop and maintain web applications from start to finish.
 
 
-* ✉️  You can contact me at [usamaashraf970@gmail.com](mailto:usamaashraf970@gmail.com)
+* ✉️  You can contact me at [findusama970@gmail.com](mailto:findusama970@gmail.com)
 * 🧠  I'm learning Everything
 * 🤝  I'm open to collaborating on Interestring Projects
 
