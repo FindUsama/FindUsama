@@ -1,13 +1,13 @@
 Hi 👋 My name is Usama Ashraf
 ==============================
 
-Full Wordpress/shopify Developer
+Full stack Wordpress/Shopify Developer
 --------------------
 
-As a WordPress and Shopify developer, I am proficient in all aspects of e-commerce website development, ranging from theme customization, plugin development, and performance optimization to providing excellent UI/UX designs, understanding the business needs, and delivering solutions that meet business objectives.
+As a WordPress and Shopify developer, I am proficient in all aspects of e-commerce website development, ranging from theme customization, plugin development, and performance optimization to providing excellent UI/UX designs, understanding business needs, and delivering solutions that meet business objectives.
 
 🖥️ Check out my Upwork Profile, https://www.upwork.com/freelancers/~012e7a092b189e5d30
-✉️ You can reach me at contact : findusama970@gmail.com
+✉️ You can reach me at contact: findusama970@gmail.com
 🧠 I'm continuously learning and adapting to new technologies and trends
 🤝 I'm open to collaborating on intriguing Projects
 Skills
