@@ -37,7 +37,7 @@ As a WordPress Developer and Shopify Expert, I specialize in creating and managi
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
   </a>
   <a href="https://liquid.shopify.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/liquid-lang.svg" alt="liquid" width="40" height="40"/>
+    <img src="https://github.com/user-attachments/assets/ae4e1305-6b59-4ef4-80e9-6d3d8f8e44a7" alt="liquid" width="40" height="40"/>
   </a>
   <a href="https://woocommerce.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/woocommerce.svg" alt="woocommerce" width="40" height="40"/> 
