@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Usama Ashraf</h1>
-<h3 align="center">A WordPress Developer & Shopify Expert</h3>
+<h3 align="center">PHP, Laravel, WordPress & Shopify Developer</h3>
 
-As a WordPress Developer and Shopify Expert, I specialize in creating and managing dynamic e-commerce websites and custom WordPress solutions. My expertise in front-end and back-end technologies enables me to build user-friendly and scalable platforms, ensuring a seamless experience across the entire web development lifecycle.
+As a PHP, Laravel, WordPress, and Shopify Developer, I specialize in creating and managing dynamic web applications and e-commerce platforms. With expertise in both front-end and back-end technologies, I build user-friendly and scalable solutions tailored to business needs, ensuring a seamless experience throughout the development process.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
